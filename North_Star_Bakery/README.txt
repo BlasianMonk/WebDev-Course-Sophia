@@ -1,0 +1,1 @@
+North Star Bakery HTML-only project. Open index.html. Media is in assets/. Prices are illustrative estimates; address and hours were not supplied. Contact form is a demonstration and needs a backend to submit.
